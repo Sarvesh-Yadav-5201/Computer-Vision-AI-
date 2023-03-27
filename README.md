@@ -44,6 +44,7 @@ ___________________________________________________________________
 ## Majojr Requirements:
 >* Python 3.0 or above
 >* OpenCV
+>* Mediapipe
 >* NumPy
   
 ## Contributions:
