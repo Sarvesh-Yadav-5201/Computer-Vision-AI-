@@ -25,9 +25,6 @@ ___________________________________________________________________
   >
   >* This project counts the number of fingers held up in front of a webcam in real-time. It can be used for various applications such as sign language recognition, virtual keyboards, and gaming.
 
-> AI Virtual Trainer: 
-  >
-  >* This project provides real-time feedback on a user's exercise form using computer vision. It can be used for various fitness applications such as yoga, weightlifting, and stretching.
 
 > AI Virtual Painter: 
   >
